@@ -1,6 +1,6 @@
 # Personal-Style Symbolic Music Generation with Retrieval Augmentation
 
-With just a brief background in computer science, and an extensive one in music, I wanted to combine my interests and learn about machine learning and GPTs, which led to my intrigue in this project. The purpose of this project was to fine-tune an \[Anticipatory Music Transformer\](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html) on a personal \\\~46-piece catalogue to continue melodic phrases in my compositional style, then test whether retrieval augmentation (RAG) from my own corpus improves on a length-matched control. Overall it was a 4-week research project.
+With just a brief background in computer science, and an extensive one in music, I wanted to combine my interests and learn about machine learning and GPTs, which led to my intrigue in this project. The purpose of this project was to fine-tune an [Anticipatory Music Transformer](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html) on a personal \\\~46-piece catalogue to continue melodic phrases in my compositional style, then test whether retrieval augmentation (RAG) from my own corpus improves on a length-matched control. Overall it was a 4-week research project.
 
 ## Result
 
@@ -60,7 +60,7 @@ Various metrics ran like Interval distribution (what percentage of each interval
 
 ## Repo layout
 
-All useful scripts and resources in .src. Extra debug and testing scripts included in the other folders. Docs has the extra, week-by-week documentation. \[`listening-study/`\](https://github.com/rock-robot/listening-study) is a separate repo.
+All useful scripts and resources in .src. Extra debug and testing scripts included in the other folders. Docs has the extra, week-by-week documentation. [`listening-study/`](https://github.com/rock-robot/listening-study) is a separate repo.
 
 ## Not included
 
