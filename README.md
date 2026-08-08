@@ -4,7 +4,7 @@ With just a brief background in computer science, and an extensive one in music,
 
 ## Result
 
-**Retrieval did not improve on the control.** Across three objective metrics (each against five corpus-reference constructions) and a blinded two-axis listening study (15 participants, 108 judgements), every estimate favored the length-matched control A′ over the retrieval system B; no listening-test difference was significant. p being a metric of how well pure chance explains results, low p meaning chance explains it poorly, the style metric p was 11%, and the quality one was 6.4%, both very low values. Prepending corpus material (offsetting where generation starts from but not including in the final trimmed clip) *did* improve stylistic fidelity (A→A′), context quantity mattered more than relevance. The measured mechanism: octave-only alignment leaves retrieved phrases in a foreign key 84% of the time.
+**Retrieval did not improve on the control.** Across three objective metrics (each against five corpus-reference constructions) and a blinded two-axis listening study (15 participants, 108 judgements), every estimate favored the length-matched control A′ over the retrieval system B; no listening-test difference was significant. p being a metric of how well pure chance explains results, low p meaning chance explains it poorly, the style metric p was 11%, and the quality one was 6.4%, both consistent with no reliable preference. Prepending corpus material (offsetting where generation starts from but not including in the final trimmed clip) *did* improve stylistic fidelity (A→A′), context quantity mattered more than relevance. The measured mechanism: octave-only alignment leaves retrieved phrases in a foreign key 84% of the time.
 
 See `docs/project_plan_5.md` for the full writeup and `docs/session_summary_week*.md` for the week-by-week narrative.
 
@@ -19,11 +19,11 @@ The research question and study was focused around the comparison of **A′ vs B
 ## Setup
 
 - Ubuntu (WSL of choice)  
-- 49 piece corpus (stripped for melody tracks only using roster-walk and chunked and tokenized for model processing)  
+- 46 piece corpus (stripped for melody tracks only using roster-walk and chunked and tokenized for model processing)  
 - Python **3.11** in a venv (`transformers==4.29.2` pins `tokenizers==0.13.3`, which has no 3.12 wheel).  
-- `pip install -r requirements.txt`  \>\> generate this: `pip freeze > requirements.txt`  
+- `pip install -r requirements.txt` 
 - The `anticipation` package is installed from its GitHub repo, **not** PyPI.  
-- GPU: \>\> RTX 4090 / CUDA cu124  
+- GPU: RTX 4090 / CUDA cu124  
 - Lovable used for research study (gathering data on headline question of A' vs. B)
 
 ## Data
@@ -40,7 +40,7 @@ Took the complete corpus and turned multi-track midi files into individual ones 
 
 The training and evaluation datasets were tokenized (transformers don't read midi, they read from their own token library language), and packed (2048 slots in a token string, with bookend tokens needed to indicate start and stop). These were fed into a basic training setup, and then a lora one (the step size and full augmentation of the first pass led to only one epoch of training happening, as opposed to the 8 of the lora model)
 
-**Week 3 — retrieval** `features.py` → `build_index.py` → `retrieve.py` → `condition.py` → `seeds.py` → `generate_ab.py`  \>\> built 35d similarity vector → build index of clips for RAG to choose from → cosine similarity to find closest clips to seed clips (max one per piece) → align and augment data for proper RAG setup  → choose a set of 20 random seeds from val → generate clips from pretrained and RAG
+**Week 3 — retrieval** `features.py` → `build_index.py` → `retrieve.py` → `condition.py` → `seeds.py` → `generate_ab.py`  \>\> built 35d similarity vector → build index of clips for RAG to choose from → cosine similarity to find closest clips to seed clips (max one per piece) → align and augment data for proper RAG setup → choose a set of 20 random seeds from val → generate clips from pretrained and RAG
 
 To summarize musical similarity, several metrics were chosen (interval \+ duration \+ contour) as representative quantities to form a 35 dimensional vector that is used for cosine similarity (finding the closest vector to assist RAG in finding relevant material). Because there aren't that many pieces for cosine similarity to choose from, a cap of 1 retrieved clip per piece was implemented. With 20 seeds chosen from val (all checked for real content in them, no 2 note phrases), continuations from all three systems were generated for evaluation in the next week. 
 
