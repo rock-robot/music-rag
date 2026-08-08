@@ -1,6 +1,6 @@
 # Personal-Style Symbolic Music Generation with Retrieval Augmentation
 
-With just a brief background in computer science, and an extensive one in music, I wanted to combine my interests and learn about machine learning and GPTs, which led to my intrigue in this project. The purpose of this project was to fine-tune an [Anticipatory Music Transformer](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html) on a personal \~46-piece catalogue to continue melodic phrases in my compositional style, then test whether retrieval augmentation (RAG) from my own corpus improves on a length-matched control. Overall it was a 4-week research project bookended by a week of setup and one of wrap-up.
+With just a brief background in computer science, and an extensive one in music, I wanted to combine my interests and learn about machine learning and GPTs, which led to my intrigue in this project. The purpose of this project was to fine-tune an [Anticipatory Music Transformer](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html) (AMT) on a personal \~46-piece catalogue to continue melodic phrases in my compositional style, then test whether retrieval augmentation (RAG) from my own corpus improves on a length-matched control. Overall it was a 4-week research project bookended by a week of setup and one of wrap-up.
 
 ## Result
 
@@ -18,7 +18,7 @@ The research question and study was focused around the comparison of **A′ vs B
 
 ## Setup
 
-- Ubuntu (WSL of choice)  
+- Ubuntu (Window Subsystem for Linux of choice)  
 - 46 piece corpus (stripped for melody tracks only using roster-walk and chunked and tokenized for model processing)  
 - Python **3.11** in a venv (`transformers==4.29.2` pins `tokenizers==0.13.3`, which has no 3.12 wheel).  
 - `pip install -r requirements.txt` 
@@ -49,6 +49,7 @@ To summarize musical similarity, several metrics were chosen (interval \+ durati
 Various metrics ran like Interval distribution (what percentage of each interval appears in each system), novelty (is RAG copying verbatim from its retrieved content), and key drift (how often do the models generate a continuation in a different key than the seed). For research, I created a Lovable app to collect data on participant preference for one model over the other (A' vs. B). Wilcoxon checks (looking at the data to gauge per participants preference by magnitude and direction) were applied to find end results: RAG neither hurts nor helps generation.
 ![Interval distribution: A, A-prime, and B against the composer's corpus](docs/interval_histogram.png)
 ![Lovable app](docs/listeningStudy.png)
+Mobile friendly Lovable app to gather research data
 
 ## Gotchas (read before re-running)
 
@@ -60,8 +61,12 @@ Various metrics ran like Interval distribution (what percentage of each interval
 
 ## Repo layout
 
-All useful scripts and resources in .src. Extra debug and testing scripts included in the other folders. Docs has the extra, week-by-week documentation. [`listening-study/`](https://github.com/rock-robot/listening-study) is a separate repo.
+All useful scripts and resources in .src. Extra debug and testing scripts included in the other folders. Docs has the week-by-week documentation. [`listening-study/`](https://github.com/rock-robot/listening-study) is a separate repo.
 
 ## Not included
 
 Model weights (`checkpoints/`) and the audio corpus, `venv311/`. Running `train_lora.py` after following the week one pipeline with your own data lets you generate your own model weights.  
+
+## Next Steps
+
+In the future, I'd love to add a cascading generation with multiple specialized models working together to make full band scores. This was immensely fun & educational overall; I will be back to make more additions to this repo.
