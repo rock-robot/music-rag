@@ -1,0 +1,336 @@
+{
+  "calibration": [
+    {
+      "url": "audio/calib/01.mp3",
+      "boundary": 0,
+      "duration": 12.434
+    },
+    {
+      "url": "audio/calib/02.mp3",
+      "boundary": 0,
+      "duration": 12.356
+    },
+    {
+      "url": "audio/calib/03.mp3",
+      "boundary": 0,
+      "duration": 12.069
+    }
+  ],
+  "trials": [
+    {
+      "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+      "instrument": "flute",
+      "clips": {
+        "A": {
+          "url": "audio/c/a641202b75.mp3",
+          "boundary": 7.5,
+          "duration": 19.749
+        },
+        "Aprime": {
+          "url": "audio/c/06131ceeca.mp3",
+          "boundary": 7.5,
+          "duration": 19.148
+        },
+        "B": {
+          "url": "audio/c/e7cef7feaf.mp3",
+          "boundary": 7.5,
+          "duration": 20.349
+        }
+      }
+    },
+    {
+      "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+      "instrument": "flute",
+      "clips": {
+        "A": {
+          "url": "audio/c/0a5a0033cb.mp3",
+          "boundary": 7.039,
+          "duration": 19.487
+        },
+        "Aprime": {
+          "url": "audio/c/e7b8723248.mp3",
+          "boundary": 7.039,
+          "duration": 19.226
+        },
+        "B": {
+          "url": "audio/c/163ecfd190.mp3",
+          "boundary": 7.039,
+          "duration": 18.181
+        }
+      }
+    },
+    {
+      "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+      "instrument": "clarinet",
+      "clips": {
+        "A": {
+          "url": "audio/c/cd655b58ef.mp3",
+          "boundary": 7.5,
+          "duration": 17.737
+        },
+        "Aprime": {
+          "url": "audio/c/b22e8a09b6.mp3",
+          "boundary": 7.5,
+          "duration": 19.409
+        },
+        "B": {
+          "url": "audio/c/5614962925.mp3",
+          "boundary": 7.5,
+          "duration": 19.487
+        }
+      }
+    },
+    {
+      "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+      "instrument": "flute",
+      "clips": {
+        "A": {
+          "url": "audio/c/0b46bae4ff.mp3",
+          "boundary": 7.5,
+          "duration": 17.45
+        },
+        "Aprime": {
+          "url": "audio/c/0d81bbf4c7.mp3",
+          "boundary": 7.5,
+          "duration": 19.879
+        },
+        "B": {
+          "url": "audio/c/2302641e56.mp3",
+          "boundary": 7.5,
+          "duration": 19.252
+        }
+      }
+    },
+    {
+      "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+      "instrument": "flute",
+      "clips": {
+        "A": {
+          "url": "audio/c/dfb63767f5.mp3",
+          "boundary": 7.5,
+          "duration": 19.905
+        },
+        "Aprime": {
+          "url": "audio/c/95249500aa.mp3",
+          "boundary": 7.5,
+          "duration": 19.122
+        },
+        "B": {
+          "url": "audio/c/82c89bb02e.mp3",
+          "boundary": 7.5,
+          "duration": 15.491
+        }
+      }
+    },
+    {
+      "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+      "instrument": "oboe",
+      "clips": {
+        "A": {
+          "url": "audio/c/fd562535f3.mp3",
+          "boundary": 7.5,
+          "duration": 19.67
+        },
+        "Aprime": {
+          "url": "audio/c/c102c0cb37.mp3",
+          "boundary": 7.5,
+          "duration": 19.278
+        },
+        "B": {
+          "url": "audio/c/72c22d01cb.mp3",
+          "boundary": 7.5,
+          "duration": 19.775
+        }
+      }
+    },
+    {
+      "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+      "instrument": "clarinet",
+      "clips": {
+        "A": {
+          "url": "audio/c/b52a6b6b3e.mp3",
+          "boundary": 7.5,
+          "duration": 20.062
+        },
+        "Aprime": {
+          "url": "audio/c/17c836574a.mp3",
+          "boundary": 7.5,
+          "duration": 19.487
+        },
+        "B": {
+          "url": "audio/c/8ec35700b8.mp3",
+          "boundary": 7.5,
+          "duration": 19.644
+        }
+      }
+    },
+    {
+      "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+      "instrument": "trumpet",
+      "clips": {
+        "A": {
+          "url": "audio/c/4e4f53a543.mp3",
+          "boundary": 7.5,
+          "duration": 19.853
+        },
+        "Aprime": {
+          "url": "audio/c/0cacc0fd85.mp3",
+          "boundary": 7.5,
+          "duration": 20.193
+        },
+        "B": {
+          "url": "audio/c/35d87ebcf2.mp3",
+          "boundary": 7.5,
+          "duration": 19.853
+        }
+      }
+    },
+    {
+      "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+      "instrument": "flute",
+      "clips": {
+        "A": {
+          "url": "audio/c/3d241028b6.mp3",
+          "boundary": 7.402,
+          "duration": 20.245
+        },
+        "Aprime": {
+          "url": "audio/c/4147a93af6.mp3",
+          "boundary": 7.402,
+          "duration": 18.834
+        },
+        "B": {
+          "url": "audio/c/207f8d7a1f.mp3",
+          "boundary": 7.402,
+          "duration": 19.54
+        }
+      }
+    },
+    {
+      "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+      "instrument": "oboe",
+      "clips": {
+        "A": {
+          "url": "audio/c/147d5f133a.mp3",
+          "boundary": 7.5,
+          "duration": 18.939
+        },
+        "Aprime": {
+          "url": "audio/c/58e3cc1d58.mp3",
+          "boundary": 7.5,
+          "duration": 15.778
+        },
+        "B": {
+          "url": "audio/c/ce762a0d08.mp3",
+          "boundary": 7.5,
+          "duration": 19.069
+        }
+      }
+    },
+    {
+      "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+      "instrument": "clarinet",
+      "clips": {
+        "A": {
+          "url": "audio/c/a16b8169f6.mp3",
+          "boundary": 7.5,
+          "duration": 19.618
+        },
+        "Aprime": {
+          "url": "audio/c/d9e5860108.mp3",
+          "boundary": 7.5,
+          "duration": 19.513
+        },
+        "B": {
+          "url": "audio/c/0862ad5167.mp3",
+          "boundary": 7.5,
+          "duration": 19.644
+        }
+      }
+    },
+    {
+      "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+      "instrument": "flute",
+      "clips": {
+        "A": {
+          "url": "audio/c/ebc8838d11.mp3",
+          "boundary": 7.5,
+          "duration": 19.801
+        },
+        "Aprime": {
+          "url": "audio/c/712ff98a57.mp3",
+          "boundary": 7.5,
+          "duration": 20.349
+        },
+        "B": {
+          "url": "audio/c/3e5966116f.mp3",
+          "boundary": 7.5,
+          "duration": 14.42
+        }
+      }
+    },
+    {
+      "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+      "instrument": "flute",
+      "clips": {
+        "A": {
+          "url": "audio/c/8060f05e1b.mp3",
+          "boundary": 7.5,
+          "duration": 18.913
+        },
+        "Aprime": {
+          "url": "audio/c/7731db6975.mp3",
+          "boundary": 7.5,
+          "duration": 20.349
+        },
+        "B": {
+          "url": "audio/c/4c96f78a33.mp3",
+          "boundary": 7.5,
+          "duration": 18.939
+        }
+      }
+    },
+    {
+      "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+      "instrument": "oboe",
+      "clips": {
+        "A": {
+          "url": "audio/c/4b15133f8b.mp3",
+          "boundary": 7.5,
+          "duration": 19.853
+        },
+        "Aprime": {
+          "url": "audio/c/6af077f6bb.mp3",
+          "boundary": 7.5,
+          "duration": 19.853
+        },
+        "B": {
+          "url": "audio/c/9373515fe5.mp3",
+          "boundary": 7.5,
+          "duration": 19.644
+        }
+      }
+    },
+    {
+      "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+      "instrument": "clarinet",
+      "clips": {
+        "A": {
+          "url": "audio/c/f4502b3cb9.mp3",
+          "boundary": 3.834,
+          "duration": 15.569
+        },
+        "Aprime": {
+          "url": "audio/c/8243dc4c96.mp3",
+          "boundary": 3.834,
+          "duration": 15.621
+        },
+        "B": {
+          "url": "audio/c/42a737d2a2.mp3",
+          "boundary": 3.834,
+          "duration": 15.047
+        }
+      }
+    }
+  ]
+}

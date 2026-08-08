@@ -1,0 +1,722 @@
+[
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 65,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": []
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 30,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": []
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 50,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": []
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 60,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": []
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 8,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 44,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 45,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 40,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 34,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 21,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 68,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 65,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 101,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 33,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 77,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 81,
+    "verdict": "collapsed",
+    "seed_notes": 24,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 81,
+    "verdict": "collapsed",
+    "seed_notes": 24,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 56,
+    "verdict": "ok",
+    "seed_notes": 24,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 39,
+    "verdict": "collapsed",
+    "seed_notes": 24,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 75,
+    "verdict": "collapsed",
+    "seed_notes": 24,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 41,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 21,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 36,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 33,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 22,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 32,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 13,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 129,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 13,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 45,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 14,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 29,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 19,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 18,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 33,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 38,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 22,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 60,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 27,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 21,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 20,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 10,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": []
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 15,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 39,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 21,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 12,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 26,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 41,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 15,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 13,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 13,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 25,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 25,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 43,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 9,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 24,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 15,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 20,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 18,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 116,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 107,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 30,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 13,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 14,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 78,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": []
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 23,
+    "verdict": "collapsed",
+    "seed_notes": 14,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 34,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 62,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 24,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 18,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 19,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 0,
+    "system": "A",
+    "n_notes": 39,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 1,
+    "system": "A",
+    "n_notes": 32,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 2,
+    "system": "A",
+    "n_notes": 36,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 3,
+    "system": "A",
+    "n_notes": 46,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": []
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 4,
+    "system": "A",
+    "n_notes": 41,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": []
+  }
+]

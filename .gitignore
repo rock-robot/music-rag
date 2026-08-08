@@ -1,0 +1,42 @@
+# secrets — publishing these breaks the study blinding
+ANSWER_KEY.json
+MANIFEST_KEY.json
+PAIRING_KEY.json
+responses.csv
+responses-export-*.csv
+*.Zone.Identifier
+
+# environments & caches
+venv/
+venv311/
+__pycache__/
+*.pyc
+
+# large / regenerable data & audio
+corpus/
+augmented/
+chunks/
+tokenized/
+packed/
+data/
+generated/
+gen_lora/
+gen_pretrained/
+out/
+site/
+paired/
+midi/
+mxl/
+scores/
+
+# nested repo — has its own git
+listening-study/
+
+# Windows metadata tags on ignored files
+*:Zone.Identifier
+
+# model weights — too large for GitHub, regenerable by training
+checkpoints/
+
+# cloned dependency with its own git history
+anticipation/

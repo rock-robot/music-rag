@@ -1,0 +1,1922 @@
+[
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 66,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx00_melody_chunk01_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "pantheon_idx01_melody_chunk06_t+00.mid",
+        "piece": "pantheon",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 78,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx00_melody_chunk01_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "pantheon_idx01_melody_chunk06_t+00.mid",
+        "piece": "pantheon",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 26,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx00_melody_chunk01_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "pantheon_idx01_melody_chunk06_t+00.mid",
+        "piece": "pantheon",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 14,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx00_melody_chunk01_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "pantheon_idx01_melody_chunk06_t+00.mid",
+        "piece": "pantheon",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "a_letter_idx17_melody_chunk30_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 52,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx00_melody_chunk01_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "pantheon_idx01_melody_chunk06_t+00.mid",
+        "piece": "pantheon",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 66,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_2_idx30_melody_chunk07_t+00.mid",
+        "piece": "paradise_lost_mov_2",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "goldfinch_idx03_melody_chunk08_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 26,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_2_idx30_melody_chunk07_t+00.mid",
+        "piece": "paradise_lost_mov_2",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "goldfinch_idx03_melody_chunk08_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 69,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_2_idx30_melody_chunk07_t+00.mid",
+        "piece": "paradise_lost_mov_2",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "goldfinch_idx03_melody_chunk08_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 97,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_2_idx30_melody_chunk07_t+00.mid",
+        "piece": "paradise_lost_mov_2",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "goldfinch_idx03_melody_chunk08_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk11_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 77,
+    "verdict": "ok",
+    "seed_notes": 20,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_2_idx30_melody_chunk07_t+00.mid",
+        "piece": "paradise_lost_mov_2",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "goldfinch_idx03_melody_chunk08_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 73,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": [
+      {
+        "chunk": "ballad_idx03_melody_chunk11_t+00.mid",
+        "piece": "ballad",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx16_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 48,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 51,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": [
+      {
+        "chunk": "ballad_idx03_melody_chunk11_t+00.mid",
+        "piece": "ballad",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx16_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 48,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 85,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": [
+      {
+        "chunk": "ballad_idx03_melody_chunk11_t+00.mid",
+        "piece": "ballad",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx16_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 48,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 17,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": [
+      {
+        "chunk": "ballad_idx03_melody_chunk11_t+00.mid",
+        "piece": "ballad",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx16_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 48,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx00_melody_chunk14_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 28,
+    "verdict": "ok",
+    "seed_notes": 53,
+    "retrieved": [
+      {
+        "chunk": "ballad_idx03_melody_chunk11_t+00.mid",
+        "piece": "ballad",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx16_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 48,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 53,
+    "verdict": "ok",
+    "seed_notes": 24,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk12_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx39_melody_chunk17_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 42,
+    "verdict": "ok",
+    "seed_notes": 24,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk12_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx39_melody_chunk17_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 126,
+    "verdict": "ok",
+    "seed_notes": 24,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk12_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx39_melody_chunk17_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 40,
+    "verdict": "collapsed",
+    "seed_notes": 24,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk12_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx39_melody_chunk17_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx04_melody_chunk05_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 44,
+    "verdict": "ok",
+    "seed_notes": 24,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk12_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx39_melody_chunk17_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 23,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_1_idx12_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "down_by_the_river_idx07_melody_chunk00_t+00.mid",
+        "piece": "down_by_the_river",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 96,
+    "verdict": "collapsed",
+    "seed_notes": 18,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_1_idx12_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "down_by_the_river_idx07_melody_chunk00_t+00.mid",
+        "piece": "down_by_the_river",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 25,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_1_idx12_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "down_by_the_river_idx07_melody_chunk00_t+00.mid",
+        "piece": "down_by_the_river",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 23,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_1_idx12_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "down_by_the_river_idx07_melody_chunk00_t+00.mid",
+        "piece": "down_by_the_river",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk07_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 48,
+    "verdict": "ok",
+    "seed_notes": 18,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_1_idx12_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "down_by_the_river_idx07_melody_chunk00_t+00.mid",
+        "piece": "down_by_the_river",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "a_breeze_through_the_willows_idx18_melody_chunk04_t+00.mid",
+        "piece": "a_breeze_through_the_willows",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx32_melody_chunk39_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 24,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "a_breeze_through_the_willows_idx18_melody_chunk04_t+00.mid",
+        "piece": "a_breeze_through_the_willows",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx32_melody_chunk39_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 7,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "a_breeze_through_the_willows_idx18_melody_chunk04_t+00.mid",
+        "piece": "a_breeze_through_the_willows",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx32_melody_chunk39_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 9,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "a_breeze_through_the_willows_idx18_melody_chunk04_t+00.mid",
+        "piece": "a_breeze_through_the_willows",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx32_melody_chunk39_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx04_melody_chunk03_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 28,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "a_breeze_through_the_willows_idx18_melody_chunk04_t+00.mid",
+        "piece": "a_breeze_through_the_willows",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx32_melody_chunk39_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 24,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx00_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "ballad_idx27_melody_chunk17_t+00.mid",
+        "piece": "ballad",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 22,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx00_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "ballad_idx27_melody_chunk17_t+00.mid",
+        "piece": "ballad",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 12,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx00_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "ballad_idx27_melody_chunk17_t+00.mid",
+        "piece": "ballad",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 44,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx00_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "ballad_idx27_melody_chunk17_t+00.mid",
+        "piece": "ballad",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "spanish_sunrise_idx01_melody_chunk05_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 17,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx00_melody_chunk18_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "ballad_idx27_melody_chunk17_t+00.mid",
+        "piece": "ballad",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 25,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk10_t+00.mid",
+        "piece": "finale_o",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 32,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk10_t+00.mid",
+        "piece": "finale_o",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 29,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk10_t+00.mid",
+        "piece": "finale_o",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 32,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk10_t+00.mid",
+        "piece": "finale_o",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx02_melody_chunk09_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 61,
+    "verdict": "ok",
+    "seed_notes": 10,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk10_t+00.mid",
+        "piece": "finale_o",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx17_melody_chunk02_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "respite_idx15_melody_chunk07_t+00.mid",
+        "piece": "respite",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 55,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx17_melody_chunk02_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "respite_idx15_melody_chunk07_t+00.mid",
+        "piece": "respite",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 20,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx17_melody_chunk02_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "respite_idx15_melody_chunk07_t+00.mid",
+        "piece": "respite",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 12,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx17_melody_chunk02_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "respite_idx15_melody_chunk07_t+00.mid",
+        "piece": "respite",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "concerto_idx19_melody_chunk10_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 47,
+    "verdict": "ok",
+    "seed_notes": 7,
+    "retrieved": [
+      {
+        "chunk": "danza_del_sangue_idx17_melody_chunk02_t+00.mid",
+        "piece": "danza_del_sangue",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "respite_idx15_melody_chunk07_t+00.mid",
+        "piece": "respite",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 17,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk06_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "g'night_idx14_melody_chunk02_t+00.mid",
+        "piece": "g'night",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 13,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk06_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "g'night_idx14_melody_chunk02_t+00.mid",
+        "piece": "g'night",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk06_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "g'night_idx14_melody_chunk02_t+00.mid",
+        "piece": "g'night",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 9,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk06_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "g'night_idx14_melody_chunk02_t+00.mid",
+        "piece": "g'night",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx11_melody_chunk03_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 13,
+    "verdict": "ok",
+    "seed_notes": 16,
+    "retrieved": [
+      {
+        "chunk": "respite_idx15_melody_chunk06_t+00.mid",
+        "piece": "respite",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "g'night_idx14_melody_chunk02_t+00.mid",
+        "piece": "g'night",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 30,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx03_melody_chunk04_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_1_idx05_melody_chunk16_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 17,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx03_melody_chunk04_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_1_idx05_melody_chunk16_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 96,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx03_melody_chunk04_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_1_idx05_melody_chunk16_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 16,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx03_melody_chunk04_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_1_idx05_melody_chunk16_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx01_melody_chunk03_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 18,
+    "verdict": "ok",
+    "seed_notes": 11,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_3_idx03_melody_chunk04_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_1_idx05_melody_chunk16_t+00.mid",
+        "piece": "paradise_lost_mov_1",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 24,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx14_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx11_melody_chunk09_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 12,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx14_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx11_melody_chunk09_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 10,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx14_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx11_melody_chunk09_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 10,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx14_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx11_melody_chunk09_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx14_melody_chunk06_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 8,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx14_melody_chunk01_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_3_idx11_melody_chunk09_t+00.mid",
+        "piece": "paradise_lost_mov_3",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 67,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "goldfinch_idx03_melody_chunk05_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 36,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "opera_idx01_melody_chunk08_t+00.mid",
+        "piece": "opera",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 49,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "goldfinch_idx03_melody_chunk05_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 36,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "opera_idx01_melody_chunk08_t+00.mid",
+        "piece": "opera",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 74,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "goldfinch_idx03_melody_chunk05_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 36,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "opera_idx01_melody_chunk08_t+00.mid",
+        "piece": "opera",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 19,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "goldfinch_idx03_melody_chunk05_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 36,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "opera_idx01_melody_chunk08_t+00.mid",
+        "piece": "opera",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "chorale_and_procession_idx00_melody_chunk10_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 40,
+    "verdict": "ok",
+    "seed_notes": 8,
+    "retrieved": [
+      {
+        "chunk": "goldfinch_idx03_melody_chunk05_t+00.mid",
+        "piece": "goldfinch",
+        "shift": 36,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "opera_idx01_melody_chunk08_t+00.mid",
+        "piece": "opera",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 42,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk13_t+00.mid",
+        "piece": "finale_o",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 75,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk13_t+00.mid",
+        "piece": "finale_o",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 10,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk13_t+00.mid",
+        "piece": "finale_o",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 23,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk13_t+00.mid",
+        "piece": "finale_o",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "el_mar_idx02_melody_chunk06_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 18,
+    "verdict": "ok",
+    "seed_notes": 14,
+    "retrieved": [
+      {
+        "chunk": "paradise_lost_mov_4_idx41_melody_chunk22_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "finale_o_idx07_melody_chunk13_t+00.mid",
+        "piece": "finale_o",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 14,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "royal_dances_idx20_melody_chunk03_t+00.mid",
+        "piece": "royal_dances",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx04_melody_chunk14_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 44,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "royal_dances_idx20_melody_chunk03_t+00.mid",
+        "piece": "royal_dances",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx04_melody_chunk14_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 32,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "royal_dances_idx20_melody_chunk03_t+00.mid",
+        "piece": "royal_dances",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx04_melody_chunk14_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 78,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "royal_dances_idx20_melody_chunk03_t+00.mid",
+        "piece": "royal_dances",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx04_melody_chunk14_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "elegy_idx03_melody_chunk06_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 15,
+    "verdict": "ok",
+    "seed_notes": 12,
+    "retrieved": [
+      {
+        "chunk": "royal_dances_idx20_melody_chunk03_t+00.mid",
+        "piece": "royal_dances",
+        "shift": 0,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paradise_lost_mov_4_idx04_melody_chunk14_t+00.mid",
+        "piece": "paradise_lost_mov_4",
+        "shift": 12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 0,
+    "system": "Aprime",
+    "n_notes": 37,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": [
+      {
+        "chunk": "panno_rosso_idx26_melody_chunk03_t+00.mid",
+        "piece": "panno_rosso",
+        "shift": -24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paper_rabbits_idx10_melody_chunk11_t+00.mid",
+        "piece": "paper_rabbits",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 1,
+    "system": "Aprime",
+    "n_notes": 40,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": [
+      {
+        "chunk": "panno_rosso_idx26_melody_chunk03_t+00.mid",
+        "piece": "panno_rosso",
+        "shift": -24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paper_rabbits_idx10_melody_chunk11_t+00.mid",
+        "piece": "paper_rabbits",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 2,
+    "system": "Aprime",
+    "n_notes": 43,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": [
+      {
+        "chunk": "panno_rosso_idx26_melody_chunk03_t+00.mid",
+        "piece": "panno_rosso",
+        "shift": -24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paper_rabbits_idx10_melody_chunk11_t+00.mid",
+        "piece": "paper_rabbits",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 3,
+    "system": "Aprime",
+    "n_notes": 35,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": [
+      {
+        "chunk": "panno_rosso_idx26_melody_chunk03_t+00.mid",
+        "piece": "panno_rosso",
+        "shift": -24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paper_rabbits_idx10_melody_chunk11_t+00.mid",
+        "piece": "paper_rabbits",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  },
+  {
+    "seed": "forest_overture_idx10_melody_chunk09_t+00.mid",
+    "sample": 4,
+    "system": "Aprime",
+    "n_notes": 36,
+    "verdict": "ok",
+    "seed_notes": 23,
+    "retrieved": [
+      {
+        "chunk": "panno_rosso_idx26_melody_chunk03_t+00.mid",
+        "piece": "panno_rosso",
+        "shift": -24,
+        "sim": null,
+        "random": true
+      },
+      {
+        "chunk": "paper_rabbits_idx10_melody_chunk11_t+00.mid",
+        "piece": "paper_rabbits",
+        "shift": -12,
+        "sim": null,
+        "random": true
+      }
+    ]
+  }
+]
