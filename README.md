@@ -1,6 +1,6 @@
 # Personal-Style Symbolic Music Generation with Retrieval Augmentation
 
-The purpose of this project was to fine-tune an Anticipatory Music Transformer on a personal \~46-piece catalogue to continue melodic phrases in my compositional style, then test whether retrieval augmentation (RAG) from my own corpus improves on a length-matched control. Overall it was a 4-week research project.
+The purpose of this project was to fine-tune an [Anticipatory Music Transformer](https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html) on a personal \~46-piece catalogue to continue melodic phrases in my compositional style, then test whether retrieval augmentation (RAG) from my own corpus improves on a length-matched control. Overall it was a 4-week research project.
 
 ## Result
 
