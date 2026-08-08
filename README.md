@@ -49,6 +49,7 @@ To summarize musical similarity, several metrics were chosen (interval \+ durati
 Various metrics ran like Interval distribution (what percentage of each interval appears in each system), novelty (is RAG copying verbatim from its retrieved content), and key drift (how often do the models generate a continuation in a different key than the seed). For research, I created a Lovable app to collect data on participant preference for one model over the other (A' vs. B). Wilcoxon checks (looking at the data to gauge per participants preference by magnitude and direction) were applied to find end results: RAG neither hurts nor helps generation.
 ![Interval distribution: A, A-prime, and B against the composer's corpus](docs/interval_histogram.png)
 ![Lovable app](docs/listeningStudy.png)
+
 Mobile friendly Lovable app to gather research data
 
 ## Gotchas (read before re-running)
