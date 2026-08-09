@@ -50,7 +50,7 @@ Various metrics ran like Interval distribution (what percentage of each interval
 ![Interval distribution: A, A-prime, and B against the composer's corpus](docs/interval_histogram.png)
 ![Lovable app](docs/listeningStudy.png)
 
-Mobile friendly Lovable app to gather research data
+Mobile friendly Lovable app to gather research data [app link](https://listening-study.lovable.app/)
 
 ## Gotchas (read before re-running)
 
